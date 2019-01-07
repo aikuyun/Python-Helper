@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef299671-92cb-482e-8b2f-c78b67148684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python-Study/06-oop/01_def.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Study/06-oop/02_opt_attr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Study/06-oop/03_opt_inner_attr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Study/06-oop/04_private.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Study/06-oop/05_extend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Study/06-oop/06_extends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Study/06-oop/07_override.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Study/06-oop/08_convert_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Study/07-file/01_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Study/07-file/02_seek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Study/07-file/03_os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Study/07-file/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Study/07-file/test02_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Study/07-file/test02_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Study/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Study/06-oop/01_def.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Study/06-oop/01_def.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Study/06-oop/02_opt_attr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Study/06-oop/02_opt_attr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Study/06-oop/03_opt_inner_attr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Study/06-oop/03_opt_inner_attr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Study/06-oop/04_private.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Study/06-oop/04_private.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Study/06-oop/05_extend.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Study/06-oop/05_extend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Study/06-oop/06_extends.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Study/06-oop/06_extends.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Study/06-oop/07_override.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Study/06-oop/07_override.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Study/06-oop/08_convert_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Study/06-oop/08_convert_dict.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +27,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_help$04_private.coverage" NAME="04_private Coverage Results" MODIFIED="1546839791718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Study/06-oop" />
-    <SUITE FILE_PATH="coverage/python_help$03_opt_inner_attr.coverage" NAME="03_opt_inner_attr Coverage Results" MODIFIED="1546839661037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Study/06-oop" />
+    <SUITE FILE_PATH="coverage/python_help$01_file.coverage" NAME="01_file Coverage Results" MODIFIED="1546840300637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Study/07-file" />
     <SUITE FILE_PATH="coverage/python_help$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1546679447372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Study-2019/01-basic" />
     <SUITE FILE_PATH="coverage/python_help$module.coverage" NAME="module Coverage Results" MODIFIED="1546828348455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Study-2019/05-module" />
     <SUITE FILE_PATH="coverage/python_help$05_extend.coverage" NAME="05_extend Coverage Results" MODIFIED="1546839794927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Study/06-oop" />
@@ -30,6 +37,8 @@
     <SUITE FILE_PATH="coverage/python_help$list.coverage" NAME="list Coverage Results" MODIFIED="1546676670639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Study-2019/01-basic" />
     <SUITE FILE_PATH="coverage/python_help$08_convert_dict.coverage" NAME="08_convert_dict Coverage Results" MODIFIED="1546839938468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Study/06-oop" />
     <SUITE FILE_PATH="coverage/python_help$02_opt_attr.coverage" NAME="02_opt_attr Coverage Results" MODIFIED="1546839573986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Study/06-oop" />
+    <SUITE FILE_PATH="coverage/python_help$02_seek.coverage" NAME="02_seek Coverage Results" MODIFIED="1546840579576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Study/07-file" />
+    <SUITE FILE_PATH="coverage/python_help$03_opt_inner_attr.coverage" NAME="03_opt_inner_attr Coverage Results" MODIFIED="1546839661037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Study/06-oop" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="646875426">
@@ -47,53 +56,35 @@
           <entry key="Pipfile" value="1" />
           <entry key="lock" value="1" />
           <entry key="md" value="10" />
-          <entry key="py" value="24" />
-          <entry key="txt" value="1" />
+          <entry key="py" value="29" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="10" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="24" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="519" />
-          <entry key="py" value="1700" />
-          <entry key="txt" value="105" />
+          <entry key="py" value="1770" />
+          <entry key="txt" value="143" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="519" />
-          <entry key="PLAIN_TEXT" value="105" />
-          <entry key="Python" value="1700" />
+          <entry key="PLAIN_TEXT" value="143" />
+          <entry key="Python" value="1770" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Study/06-oop/01_def.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="61" lean-forward="true" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Study/06-oop/02_opt_attr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" column="28" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python-Study/06-oop/03_opt_inner_attr.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,9 +112,58 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python-Study/06-oop/06_extends.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Study/06-oop/07_override.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Study/06-oop/08_convert_dict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Study/07-file/01_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Study/07-file/02_seek.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python-Study/07-file/test02_1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -164,6 +204,11 @@
         <option value="$PROJECT_DIR$/Python-Study/06-oop/04_private.py" />
         <option value="$PROJECT_DIR$/Python-Study/06-oop/05_extend.py" />
         <option value="$PROJECT_DIR$/Python-Study/06-oop/06_extends.py" />
+        <option value="$PROJECT_DIR$/Python-Study/06-oop/07_override.py" />
+        <option value="$PROJECT_DIR$/Python-Study/06-oop/08_convert_dict.py" />
+        <option value="$PROJECT_DIR$/Python-Study/07-file/01_file.py" />
+        <option value="$PROJECT_DIR$/Python-Study/07-file/02_seek.py" />
+        <option value="$PROJECT_DIR$/Python-Study/07-file/test02_1.txt" />
       </list>
     </option>
   </component>
@@ -199,7 +244,7 @@
               <item name="python-help" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Python-Study" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="06-oop" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="07-file" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -225,7 +270,12 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python-Study" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python-Study/07-file" />
       <recent name="$PROJECT_DIR$/Python-Study/06-oop" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -352,8 +402,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.08_convert_dict">
-    <configuration name="02_opt_attr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.02_seek">
+    <configuration name="01_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-help" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,12 +411,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Study/06-oop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Study/07-file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Study/06-oop/02_opt_attr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Study/07-file/01_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,7 +425,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_opt_inner_attr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02_seek" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-help" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -383,12 +433,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Study/06-oop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Study/07-file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Study/06-oop/03_opt_inner_attr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Study/07-file/02_seek.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -464,19 +514,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.02_opt_attr" />
-      <item itemvalue="Python.03_opt_inner_attr" />
       <item itemvalue="Python.04_private" />
       <item itemvalue="Python.05_extend" />
       <item itemvalue="Python.08_convert_dict" />
+      <item itemvalue="Python.01_file" />
+      <item itemvalue="Python.02_seek" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02_seek" />
+        <item itemvalue="Python.01_file" />
         <item itemvalue="Python.08_convert_dict" />
         <item itemvalue="Python.05_extend" />
         <item itemvalue="Python.04_private" />
-        <item itemvalue="Python.03_opt_inner_attr" />
-        <item itemvalue="Python.02_opt_attr" />
       </list>
     </recent_temporary>
   </component>
@@ -547,7 +597,21 @@
       <option name="project" value="LOCAL" />
       <updated>1546836259735</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="python class def">
+      <created>1546839974344</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1546839974344</updated>
+    </task>
+    <task id="LOCAL-00010" summary="python oop">
+      <created>1546839997275</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1546839997275</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -591,7 +655,9 @@
     <MESSAGE value="del some file" />
     <MESSAGE value="add some file" />
     <MESSAGE value="change filename" />
-    <option name="LAST_COMMIT_MESSAGE" value="change filename" />
+    <MESSAGE value="python class def" />
+    <MESSAGE value="python oop" />
+    <option name="LAST_COMMIT_MESSAGE" value="python oop" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python-Study/test/Test.py">
@@ -833,7 +899,56 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python-Study/06-oop/06_extends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Study/06-oop/07_override.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Study/06-oop/08_convert_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Study/07-file/test02_3.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Study/07-file/01_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1507" column="31" lean-forward="true" selection-start-line="1507" selection-start-column="31" selection-end-line="1507" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Study/07-file/02_seek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Study/07-file/test02_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
